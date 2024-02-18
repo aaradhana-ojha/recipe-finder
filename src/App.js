@@ -40,7 +40,7 @@ function App() {
         <div className="logo-container">
           {/* logo */}
           <img src={logo} alt="Restaurant Logo" className="logo" />
-          <h1 className="restaurant-name">Recepie Finder</h1>
+          <h1 className="restaurant-name">Recipe Finder</h1>
         </div>
       </div>
       {selectedRecipe ? (
